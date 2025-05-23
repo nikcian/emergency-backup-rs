@@ -1,0 +1,5 @@
+target/
+emergency-backup-data/
+.DS_Store
+.idea
+.vscode
